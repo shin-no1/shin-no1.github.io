@@ -2,6 +2,14 @@
 main:
   - title: "Category"
     url: /categories/
+sidebar-category:
+  - title: "Category"
+    children:
+      - title: "ETC"
+        url: /categories/etc/
+counts:
+  - title: "카테고리"
+    use: true
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
